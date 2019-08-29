@@ -1,7 +1,7 @@
-var css = document.querySelector("h3");
-var	colorFirst = document.querySelector(".colorFirst");
-var	colorSecond = document.querySelector(".colorSecond");
-var body = document.getElementById("gradient");
+const css = document.querySelector("h3");
+const colorFirst = document.querySelector(".colorFirst");
+const colorSecond = document.querySelector(".colorSecond");
+const body = document.getElementById("gradient");
 
 
 function setGradient() {
